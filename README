@@ -1,0 +1,5 @@
+SideLegend from Bottle
+>Bottle used jQuery. However, on Octopress, the builtin library is under control of ender.js.
+>So, I did a little modification and it works on ender.js with Bonzo and Bean.
+
+*Noted: I got this issue saying the event.layerX is deprecated on webkit.</br>Wondering if Bean is using the old API?
